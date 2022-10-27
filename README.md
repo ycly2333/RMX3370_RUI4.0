@@ -18,12 +18,12 @@
 > 底包要求：RMX3370CN_C.10
 
 ## 截图
-!(about)[0.jpg]
-!(lock)[1.jpg]
-!(launcher)[2.jpg]
-!(setting)[3.jpg]
-!(sidebar)[4.jpg]
-!(notification-bar)[5.jpg]
+![about](0_EN.jpg)
+![lock](1_EN.jpg)
+![launcher](2_EN.jpg)
+![setting](3_EN.jpg)
+![sidebar](4_EN.jpg)
+![notification-bar](5_EN.jpg)
 
 ## 校验码
 

@@ -16,12 +16,12 @@
 > RUI 3.0 IN C.09 or GDPR C.08 or CN C.10 firmware is required before flashing.
 
 ## Screenshots
-!(about)[0_EN.jpg]
-!(lock)[1_EN.jpg]
-!(launcher)[2_EN.jpg]
-!(setting)[3_EN.jpg]
-!(sidebar)[4_EN.jpg]
-!(notification-bar)[5_EN.jpg]
+![about](0_EN.jpg)
+![lock](1_EN.jpg)
+![launcher](2_EN.jpg)
+![setting](3_EN.jpg)
+![sidebar](4_EN.jpg)
+![notification-bar](5_EN.jpg)
 
 ## Checksum
 
