@@ -1,6 +1,6 @@
 # realmeUI 4.0 for GT Neo2
 
-#### EN | [中](index.md)
+## EN | [中](index.md)
 
 ## About
 - Author: HFDan
