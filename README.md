@@ -45,6 +45,9 @@
 ![sidebar](4.jpg)
 ![notification-bar](5.jpg)
 
+## QQ群
+![qq](realme_ycly.png)
+
 ## 校验码
 
 **MD5**：31dc3a0d9a54b8a9ce2dd4366004f87d
