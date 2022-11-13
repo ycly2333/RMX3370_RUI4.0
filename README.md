@@ -1,7 +1,5 @@
 # realmeUI 4.0 for GT Neo2
 
-## 中 | [EN](EN.md)
-
 ## 关于
 - 作者：小白afraid，洋葱落叶
 - 版本：V5
